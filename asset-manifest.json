@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IdleTimer/static/css/main.073c9b0a.css",
+    "main.js": "/IdleTimer/static/js/main.600978db.js",
+    "static/js/787.394dd143.chunk.js": "/IdleTimer/static/js/787.394dd143.chunk.js",
+    "index.html": "/IdleTimer/index.html",
+    "main.073c9b0a.css.map": "/IdleTimer/static/css/main.073c9b0a.css.map",
+    "main.600978db.js.map": "/IdleTimer/static/js/main.600978db.js.map",
+    "787.394dd143.chunk.js.map": "/IdleTimer/static/js/787.394dd143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.600978db.js"
+  ]
+}
