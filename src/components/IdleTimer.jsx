@@ -42,7 +42,7 @@ export default function IdleTimer() {
       {idle && (
         <>
           <p>vous allez etre deco dans 10sec</p>
-          <IdleModal handleOffIdle={handleOffIdle} />
+          <IdleModal idle={idle} handleOffIdle={handleOffIdle} />
         </>
       )}
     </div>
